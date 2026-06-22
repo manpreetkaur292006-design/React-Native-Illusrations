@@ -18,7 +18,7 @@ const app = () => {
           <Pressable style={styles.button}>
             <Text style={styles.buttonText}>Contact Us</Text>
           </Pressable>
-        </Link>
+        </Link>  
 
       </ImageBackground>
     </View>
